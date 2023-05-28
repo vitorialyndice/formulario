@@ -1,2 +1,2 @@
 # formulario
- Criação de uma formulário com HTML5 e CSS3.
+ Criação de um formulário com HTML5 e CSS3.
